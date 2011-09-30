@@ -1,0 +1,5 @@
+gem install bundler
+bundle install
+bundle exec ruby myapp.rb
+
+Browse to http://localhost:4567
